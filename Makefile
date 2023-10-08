@@ -1,2 +1,2 @@
 all:
-	echo "Ok"
+	python3 src/main.py
